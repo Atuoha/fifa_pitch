@@ -20,7 +20,7 @@ class PitchScreen extends StatelessWidget {
             child: Container(
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('assets/images/playground.png'),
+                  image: AssetImage('assets/images/playground2.png'),
                   fit: BoxFit.cover,
                 ),
               ),

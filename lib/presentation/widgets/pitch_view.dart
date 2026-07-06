@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:uefa_flow/presentation/widgets/pitch_line_painter.dart';
 import '../../data/sample_data.dart';
-import '../../model/formation.dart';
 import 'half_pitch.dart';
-import 'player_indicator.dart';
-import 'live_player_wrapper.dart';
-import 'player_details_bottom_sheet.dart';
+
 
 class PitchView extends StatelessWidget {
   const PitchView({super.key});
